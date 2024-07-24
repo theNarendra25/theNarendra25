@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenarendra25&label=Profile%20views&color=0e75b6&style=flat" alt="thenarendra25" /> </p>
 
-- 🔭 I’m currently working on [Imaginify.AI](https://github.com/theNarendra25/VidCaptions)
+- 🔭 I’m currently working on [VidCaptions](https://github.com/theNarendra25/VidCaptions)
 
 - 🌱 I’m currently learning **Full Stack Development**
 
